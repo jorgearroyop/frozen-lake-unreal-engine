@@ -17,10 +17,13 @@ Engine Version 5.5
 
 ## Quick Install:
 ### Binaries via Github Releases
-1. Download latest release (Windows and/or Android) here: https://github.com/jorgearroyop/frozen-lake-unreal-engine/releases
-2. Unzip file(s)
-3. For Windows: run `FrozenLakeExplorer.exe`
-4. For Android: install the .apk file to your phone. Some instructions here: https://www.lifewire.com/install-apk-on-android-4177185
+1. **Download the latest release** (Windows and/or Android). [GitHub Releases](https://github.com/jorgearroyop/frozen-lake-unreal-engine/releases)
+
+2. **Unzip** the downloaded file(s)
+
+3. **Run / Install**
+   - **Windows:** open `FrozenLakeExplorer.exe`
+   - **Android:** install the `.apk` on your phone. [How to Install an APK](https://www.lifewire.com/install-apk-on-android-4177185)
 
 ### Via git clone
 1. Clone the repository

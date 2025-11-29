@@ -1,6 +1,8 @@
 # Frozen Lake Explorer
 Interactive Unreal Engine application that visualizes how an AI agent learns to navigate a frozen-lake environment using reinforcement learning (Q-learning). Adjust key parameters and watch learning unfold in real time!
 
+Engine Version 5.5
+
 ## Key Features:
 - Tweak hyperparameters to see their effects
 - Live Q-Table updates 
@@ -12,3 +14,17 @@ Interactive Unreal Engine application that visualizes how an AI agent learns to 
   <img src="https://img.youtube.com/vi/RUT-PlT4GNA/maxresdefault.jpg" alt="Watch the video" width="600">
 </a>
 <div><sub>Tip: Right-click and choose “Open link in new tab” to keep this page open.</sub></div>
+
+## Quick Install:
+### Binaries via Github Releases
+1. Download latest release (Windows and/or Android) here: https://github.com/jorgearroyop/frozen-lake-unreal-engine/releases
+2. Unzip file(s)
+3. For Windows: run `FrozenLakeExplorer.exe`
+4. For Android: install the .apk file to your phone. Some instructions here: https://www.lifewire.com/install-apk-on-android-4177185
+
+### Via git clone
+1. Clone the repository
+   ```bash
+   git clone https://github.com/jorgearroyop/frozen-lake-unreal-engine.git
+3. Open the `FrozenLakeExplorer.uproject` in Unreal Engine 5.5.4
+4. Build the project
